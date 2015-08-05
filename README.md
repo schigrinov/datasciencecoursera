@@ -1,2 +1,2 @@
-# repo_for_ds
+# datasciencecoursera
 Repo for the Data Science course 
